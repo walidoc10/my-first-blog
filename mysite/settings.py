@@ -25,7 +25,7 @@ SECRET_KEY = 'y@44du%ygmfr-a@bp0!79(3&aug$b+uryh+3&x+qao*3fc$zah'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['walidoc.pythonanywhere.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
